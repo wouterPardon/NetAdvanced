@@ -1,0 +1,15 @@
+C:\NetAdvanced\Oefening6\bin\Debug\Oefening6.exe.config
+C:\NetAdvanced\Oefening6\bin\Debug\Oefening6.exe
+C:\NetAdvanced\Oefening6\bin\Debug\Oefening6.pdb
+C:\NetAdvanced\Oefening6\obj\Debug\Oefening6.csprojAssemblyReference.cache
+C:\NetAdvanced\Oefening6\obj\Debug\MainWindow.g.cs
+C:\NetAdvanced\Oefening6\obj\Debug\App.g.cs
+C:\NetAdvanced\Oefening6\obj\Debug\Oefening6_MarkupCompile.cache
+C:\NetAdvanced\Oefening6\obj\Debug\Oefening6_MarkupCompile.lref
+C:\NetAdvanced\Oefening6\obj\Debug\MainWindow.baml
+C:\NetAdvanced\Oefening6\obj\Debug\Oefening6.g.resources
+C:\NetAdvanced\Oefening6\obj\Debug\Oefening6.Properties.Resources.resources
+C:\NetAdvanced\Oefening6\obj\Debug\Oefening6.csproj.GenerateResource.cache
+C:\NetAdvanced\Oefening6\obj\Debug\Oefening6.csproj.CoreCompileInputs.cache
+C:\NetAdvanced\Oefening6\obj\Debug\Oefening6.exe
+C:\NetAdvanced\Oefening6\obj\Debug\Oefening6.pdb
